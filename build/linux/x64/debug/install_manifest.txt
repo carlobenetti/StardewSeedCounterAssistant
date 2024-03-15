@@ -1,0 +1,15 @@
+/home/tuturry/Documents/programação/flutter/sprinklerapp/build/linux/x64/debug/bundle/sprinklerapp
+/home/tuturry/Documents/programação/flutter/sprinklerapp/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/tuturry/Documents/programação/flutter/sprinklerapp/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/tuturry/Documents/programação/flutter/sprinklerapp/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/normal_sprinkler.png
+/home/tuturry/Documents/programação/flutter/sprinklerapp/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/iridium_sprinkler.png
+/home/tuturry/Documents/programação/flutter/sprinklerapp/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/quality_sprinkler.png
+/home/tuturry/Documents/programação/flutter/sprinklerapp/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/tuturry/Documents/programação/flutter/sprinklerapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/tuturry/Documents/programação/flutter/sprinklerapp/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/tuturry/Documents/programação/flutter/sprinklerapp/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/tuturry/Documents/programação/flutter/sprinklerapp/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/tuturry/Documents/programação/flutter/sprinklerapp/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/tuturry/Documents/programação/flutter/sprinklerapp/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/tuturry/Documents/programação/flutter/sprinklerapp/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/tuturry/Documents/programação/flutter/sprinklerapp/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
